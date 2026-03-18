@@ -7,4 +7,4 @@ The repository had the chatbot code and the original PDFs for the two tax prepar
 
 Near the bottom of the chatbot file is a line for userID's and passwords. You can take that section out if you are only allowing local access and don't need them. They are there so that you can demonstrate the chatbot on the web, through something like cloudflared.
 
-For more information, see the blog post at 
+For more information, see the blog post at [https://www.mcgurrin.info/robots/8318/](https://www.mcgurrin.info/robots/8318/)
