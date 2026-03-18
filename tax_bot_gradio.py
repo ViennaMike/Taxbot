@@ -454,7 +454,7 @@ def main():
         inbrowser=True,
         theme=theme,
         auth=[
-            ("taxnewb", "taxORcredit2024"),
+            ("UserID", "password"),
         ],
         auth_message="Tax ChatBot — Please log in to continue.",
     )
